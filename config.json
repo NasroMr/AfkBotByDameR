@@ -1,7 +1,7 @@
 {
-	"ip":"damertest.aternos.me",
-	"port": 58015,
-	"name": "afkbot",
+	"ip":"arabewolvescraft.aternos.me",
+	"port": 50103,
+	"name": "Ahmed",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register 12345 12345",
